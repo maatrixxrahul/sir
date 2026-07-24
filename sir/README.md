@@ -50,7 +50,7 @@ Where:
 - **NumPy** — numerical computation
 - **SciPy** — ODE solving (`odeint`)
 - **Matplotlib / Plotly** — visualization
-- **Streamlit** — interactive web interface (if applicable)
+- **Streamlit** — interactive web interface 
 
 ---
 
@@ -104,7 +104,6 @@ The simulator generates a plot showing:
 - Infected population rising to a peak, then falling
 - Recovered population increasing as the outbreak resolves
 
-*(Add a sample screenshot/plot here)*
 
 ---
 
